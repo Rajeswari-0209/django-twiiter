@@ -1,1 +1,1 @@
-web: gunicorn Django_Twitter.wsgi
+web: gunicorn posts.wsgi
